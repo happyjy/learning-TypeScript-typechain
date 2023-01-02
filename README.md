@@ -14,7 +14,7 @@ yarn start
 * https://khalilstemmler.com/blogs/tooling/prettier/
 * npm run prettier-watch 실행 후 저장하 ts 파일 자동정렬 
 # TS 설정
-[?] tsconfing.json 설정 방법 문서 확인하기
+tsconfing.json 설정 방법 문서 확인하기
 https://www.youtube.com/watch?v=-dyrcJr5NiQ&feature=emb_title
 
 * 방법
